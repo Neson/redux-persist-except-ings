@@ -1,0 +1,18 @@
+{
+  "name": "redux-persist-except-ings",
+  "version": "0.0.1",
+  "description": "Ignore event states that contains \"ing\", avoids stalemate occured by app restarting during events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neson/redux-persist-except-ings.git"
+  },
+  "homepage": "https://github.com/Neson/redux-persist-except-ings",
+  "author": "neson <neson@dex.tw>",
+  "license": "MIT"
+}
